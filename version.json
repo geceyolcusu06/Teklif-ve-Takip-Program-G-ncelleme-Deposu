@@ -1,5 +1,5 @@
 {
-  "version": "6.1",
-  "download_url": "",
-  "notes": "İlk sürüm"
+  "version": "6.2",
+  "download_url": "https://example.com/setup.exe",
+  "notes": "Deneme güncellemesi"
 }
