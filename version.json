@@ -1,5 +1,5 @@
 {
-  "version": "7.2",
-  "download_url": "https://github.com/geceyolcusu06/Teklif-ve-Takip-Program-G-ncelleme-Deposu/releases/download/v7.2/Teklif_Is_Takip_Programi_V7_2_Setup.exe",
-  "notes": "V7.2: İş Takip klasörü, otomatik belge klasörleri ve gelişmiş yedekleme sistemi eklendi."
+  "version": "7.4",
+  "download_url": "https://github.com/geceyolcusu06/Teklif-ve-Takip-Program-G-ncelleme-Deposu/releases/download/v7.4/Teklif_Is_Takip_Programi_V7_4_Setup.exe",
+  "notes": "PDF hatası düzeltildi, Seçili Kalemi Sil butonu geri eklendi, şablon alanı düzenlendi."
 }
