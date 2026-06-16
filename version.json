@@ -1,5 +1,5 @@
 {
-  "version": "7.4",
-  "download_url": "https://github.com/geceyolcusu06/Teklif-ve-Takip-Program-G-ncelleme-Deposu/releases/download/v7.4/Teklif_Is_Takip_Programi_V7_4_Setup.exe",
-  "notes": "PDF hatası düzeltildi, Seçili Kalemi Sil butonu geri eklendi, şablon alanı düzenlendi."
+  "version": "7.5",
+  "download_url": "https://github.com/geceyolcusu06/Teklif-ve-Takip-Program-G-ncelleme-Deposu/releases/download/v7.5/Teklif_Is_Takip_Programi_V7_5_Professional_Update_Setup.exe",
+  "notes": "V7.5 Professional Update - Dashboard, Excel iyilestirmeleri, otomatik yedekleme, hizli arama, musteri istatistikleri, hata log sistemi ve performans iyilestirmeleri."
 }
